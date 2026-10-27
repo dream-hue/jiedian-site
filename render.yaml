@@ -10,7 +10,6 @@ services:
       - key: NODE_ENV
         value: production
       - key: SITE_NAME
-        value: ??
+        value: Jiedian
       - key: ADMIN_PASSWORD_HASH
         sync: false
-
