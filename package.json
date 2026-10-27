@@ -1,0 +1,10 @@
+{
+  "name": "jiedian-verification-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-hosted verification service storefront and admin console",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "admin:password": "node scripts/set-admin-password.js" },
+  "engines": { "node": ">=20" }
+}
+
